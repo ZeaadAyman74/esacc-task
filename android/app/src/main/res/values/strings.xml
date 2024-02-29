@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="facebook_app_id">1853147505138475</string>
+    <string name="fb_login_protocol_scheme">fb1853147505138475</string>
+    <string name="facebook_client_token">0df0434f9d4a868656f0110c02e7997f</string>
+    <string name="app_name">"esacc-task"</string>
+
+</resources>
+
+
